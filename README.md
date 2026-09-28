@@ -6,6 +6,8 @@
 
 ### Pythoneering Fast-Track for Polyglots
 
+A programmer with some experience in other languages can skip a step or two, bypass beginner programming topics and focus on the unique things Python 3 can do. That's what we'll [do here](https://www.manning.com/livevideo/python-1100-python-as-a-second-language).
+
 ## Key Topics
 
 Scripting, data types, variables, data values, default objects,
